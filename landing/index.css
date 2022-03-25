@@ -8,6 +8,15 @@
 body{
     background-color: #ffffff;
 }
+.navbar-nav{
+  
+}
+.nav-item{
+  /* justify-content: space-around; */
+}
+.navbar-brand{
+  margin-right: 145px
+}
 .font-height
 {
     height: 100px;
@@ -25,9 +34,11 @@ body{
 }
 .slider_img
 {
+ 
   margin-left: 25px;
 
 }
+
 .color
 {
     color: #f3c746;
