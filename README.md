@@ -78,9 +78,12 @@ A glimpse of our website
 ## Authors
 
   1. [Shashi Ranjan](https://github.com/Sranjan4321) 
+  2. [Shani Sonkar](https://github.com/shanikkt) 
   2. [Chhatrapal Ahirwar](https://github.com/Chhattoo25) 
   3. [md. Arif](https://github.com/arif841236/arif841236) 
   4. [chhavi srivastva](https://github.com/chhavi48)
   5. [Naquee Alam](https://github.com/Naquee)
+  
+
 
 
